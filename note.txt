@@ -1,0 +1,9 @@
+Wallet generated:
+ - Address  : n24amS5eyU4gLeuHhrU9wpTWikXHyXf7hC,
+ - Key : cU5J8uCFM2iAo74aAkDYrrKeqvkQf7czKWp8bE8qG5VRu4c5zzwi,
+ - Mnemonic : crazy ball result cool senior rich table obtain flee nuclear zebra round
+
+Wallet generated:
+ - Address  : mpGmg6jv8nJjMjyHkwaiFmz1WtsthMhFEy,
+ - Key : cN4KvEfo93zghxh9wV3utr9TfRkoxSU9Pk3DPvLjGcxhg66tJCwD,
+ - Mnemonic : roof tomato reopen film tobacco property dial casino acid wisdom pistol dolphin
